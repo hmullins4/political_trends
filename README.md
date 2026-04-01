@@ -1,1 +1,3 @@
-# political_trends
+# Interactive Analysis of U.S. Electoral Trends and Voter Demographics
+
+I analyzed U.S. election and voting data from Harvard Dataverse and FiveThirtyEight to explore how political preferences and turnout patterns have changed over time across states and districts. In Tableau, I built an interactive dashboard using election results from 1976 to 2022 and political elasticity scores to compare shifts in partisan voting behavior and highlight differences across geography and time. I then extended the project in R with a Shiny app that let users filter turnout data by year and age group and compare voter turnout and electorate share across racial and ethnic categories. Overall, the project combined data acquisition, exploratory analysis, interactive visualization, and civic data storytelling.
